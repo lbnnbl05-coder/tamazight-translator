@@ -1,0 +1,9 @@
+streamlit==1.28.1
+yt-dlp==2023.12.30
+openai-whisper==20231117
+googletrans-new==1.11.0
+edge-tts==6.1.10
+asyncio-contextmanager==1.0.0
+requests==2.31.0
+torch==2.0.0
+librosa==0.10.0
