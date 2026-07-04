@@ -6,12 +6,14 @@ textColor = "#262730"
 font = "sans serif"
 
 [client]
-showErrorDetails = true
+showErrorDetails = false
 toolbarMode = "minimal"
 
 [logger]
-level = "info"
+level = "error"
 
 [server]
 maxUploadSize = 500
 enableXsrfProtection = true
+headless = true
+enableCORS = false
